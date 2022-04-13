@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("eatdonaldtrumpshair")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Eat Trumps Hair")]
+[assembly: AssemblyDescription("deo at 21:01: A game where you eat donald trumps hair to gain the ability of russian troops which try to raid north korea")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("eatdonaldtrumpshair")]
+[assembly: AssemblyProduct("some wierd game i put too much time into")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
